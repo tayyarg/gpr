@@ -1,0 +1,2 @@
+# gpr
+Gauss Süreç Regresyonu
